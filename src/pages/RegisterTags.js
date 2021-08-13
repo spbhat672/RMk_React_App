@@ -2,8 +2,8 @@ import React from 'react';
 
 function RegisterTags() {
   return (
-    <div className='home'>
-      <h1>Register Tags</h1>
+    <div>
+      <div><h1>Register Tags</h1></div>
       <table>
           <tr>
           <th>Resource:-</th>

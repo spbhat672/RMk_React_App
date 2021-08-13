@@ -2,8 +2,8 @@ import React from 'react';
 
 function AddTagValue() {
   return (
-    <div className='home'>
-      <h1>Add Tag Value</h1>
+    <div>
+      <div><h1>Add Tag Value</h1></div>
       <table>
           <tr>
           <th>Resource Name:-</th>
